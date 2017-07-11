@@ -4,4 +4,4 @@ Andrew Fultz Bio: A 3rd year PhD student at Rutgers Business School, Andrew is e
 
 Here is my RStudio edit. Plus an edit made in GitHub. Nice change, I must say. 
 
-This change should not immediately be in the branch.
+This change should not immediately be in the branch...
